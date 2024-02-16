@@ -1,0 +1,6 @@
+# Ignorar todas as screenshots
+*
+
+# Mas manter os arquivos do Github
+!.gitignore
+!.gitkeep
